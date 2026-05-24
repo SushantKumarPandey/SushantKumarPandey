@@ -4,7 +4,7 @@
 
 ## About Me
 
-- Completing my B.Sc. in Informatik/Softwaretechnik in 2027
+- Completing my B.Sc. in Informatik/Softwaretechnik
 - Building with Python, FastAPI, Docker, and PostgreSQL
 - Currently working on EchoDash — a KI-Dashboard for ultrasound data (FastAPI, PostgreSQL, MinIO, pytest)
 - Based in Lübeck, Germany
