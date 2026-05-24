@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Sushant Kumar Pandey
 
-<!--
-**SushantKumarPandey/SushantKumarPandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Informatik/Softwaretechnik Student** at Technische Hochschule Lübeck
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Completing my B.Sc. in Informatik/Softwaretechnik in 2027
+- Building with Python, FastAPI, Docker, and PostgreSQL
+- Currently working on EchoDash — a KI-Dashboard for ultrasound data (FastAPI, PostgreSQL, MinIO, pytest)
+- Based in Lübeck, Germany
+
+## Tech Stack
+
+Languages: Python, Java, C, JavaScript, SQL  
+Backend: FastAPI, Django, Streamlit, Pydantic  
+Databases: PostgreSQL, MySQL, MinIO  
+DevOps: Docker, GitLab CI/CD, Kubernetes, Git, Linux  
+Testing: pytest, Unit Tests
+
+## Currently Learning
+
+- Backend development with FastAPI and PostgreSQL
+- Database design and optimization
+- API security and authentication
+
+## Contact
+
+- Email: sushantkumarpandey07@gmail.com
