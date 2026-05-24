@@ -6,7 +6,7 @@
 
 - Completing my B.Sc. in Informatik/Softwaretechnik
 - Building with Python, FastAPI, Docker, and PostgreSQL
-- Currently working on EchoDash — a KI-Dashboard for ultrasound data (FastAPI, PostgreSQL, MinIO, pytest)
+- Currently working on EchoDash — a KI-Dashboard for ultrasound data (FastAPI, PostgreSQL, MinIO, pytest) in gitlab
 - Based in Lübeck, Germany
 
 ## Tech Stack
